@@ -1,0 +1,28 @@
+SrcIP: 10.3.0.11
+DstIP: 63.235.36.26
+SrcPort: 53980
+DstPort: 80
+PktPayload: 
+
+SrcIP: 10.3.0.11
+DstIP: 63.235.36.26
+SrcPort: 53980
+DstPort: 80
+PktPayload: 
+
+SrcIP: 10.3.0.11
+DstIP: 63.235.36.26
+SrcPort: 53980
+DstPort: 80
+PktPayload: GET / HTTP/1.1
+Host: www.bing.com
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.26) Gecko/20120201 CentOS/3.6.26-1.el6.centos Firefox/3.6.26
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+
+
+
